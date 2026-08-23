@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1001,
+        "name": "Internet Bill",
+        "amount": 3000,
+        "category": "Bills",
+        "date": "2026-08-20"
+    },
+    {
+        "id": 1002,
+        "name": "Food",
+        "amount": 1500,
+        "category": "Food",
+        "date": "2026-08-21"
+    },
+    {
+        "id": 1003,
+        "name": "Transport",
+        "amount": 800,
+        "category": "Travel",
+        "date": "2026-08-22"
+    },
+    {
+        "id": 1004,
+        "name": "Books",
+        "amount": 1200,
+        "category": "Education",
+        "date": "2026-08-22"
+    }
+]
